@@ -34,7 +34,7 @@ export default function ThirdwebGuideFooter() {
         }}
       >
         <img
-          src={"/Bitkeep.png"}
+          src={"/opensea.png"}
           width={40}
           height={40}
           role="button"
