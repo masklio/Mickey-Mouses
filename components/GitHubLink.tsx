@@ -2,7 +2,7 @@ import styles from "../../styles/Thirdweb.module.css";
 import React from "react";
 
 export default function ThirdwebGuideFooter() {
-  const url1 = "https://opensea.io/collection/mickey-mouse-v4-1";
+  const url1 = "https://opensea.io/collection/mickey-mouses-v1";
   const url2 = "https://www.element.market/collections/mickey-mouses";
   const url3 = "https://twitter.com/Mickey_Mouses3";
   
